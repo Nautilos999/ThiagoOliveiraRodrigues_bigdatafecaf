@@ -1,2 +1,1 @@
-# ThiagoOliveiraRodrigues_bigdatafecaf
-Projeto Prático de BigData 
+# thiagooliveira10NA
